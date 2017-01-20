@@ -31,6 +31,7 @@ void loop()
   #endif
   OneStep(Sensor1, CtrlSensor1, Motor1, Motor1Time, 400);
 
+  // милисекунд
   delay(3600000);
   //delay(5000);
 
